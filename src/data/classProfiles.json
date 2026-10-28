@@ -1,0 +1,22 @@
+{
+  "_doc": "style : part des sorts à portée variable lancés au corps à corps (0..1). po : PO visée au niveau 100+ (moitié entre 50 et 99). invo : invocations visées au niveau 100+ (base 1). summonK : gain de DPT par invocation au-delà de la première. heal : poids des soins dans le score.",
+  "Féca":       { "style": 0.2, "po": 1, "invo": 1, "summonK": 0,    "heal": 0 },
+  "Osamodas":   { "style": 0.3, "po": 1, "invo": 4, "summonK": 0.25, "heal": 0 },
+  "Enutrof":    { "style": 0.2, "po": 1, "invo": 2, "summonK": 0.08, "heal": 0 },
+  "Sram":       { "style": 0.6, "po": 0, "invo": 1, "summonK": 0,    "heal": 0 },
+  "Xélor":      { "style": 0.3, "po": 1, "invo": 1, "summonK": 0,    "heal": 0 },
+  "Ecaflip":    { "style": 0.5, "po": 0, "invo": 1, "summonK": 0,    "heal": 0 },
+  "Eniripsa":   { "style": 0.2, "po": 1, "invo": 1, "summonK": 0,    "heal": 0.6 },
+  "Iop":        { "style": 0.7, "po": 0, "invo": 1, "summonK": 0,    "heal": 0 },
+  "Crâ":        { "style": 0,   "po": 3, "invo": 1, "summonK": 0,    "heal": 0 },
+  "Sadida":     { "style": 0.2, "po": 1, "invo": 3, "summonK": 0.15, "heal": 0 },
+  "Sacrieur":   { "style": 0.8, "po": 0, "invo": 1, "summonK": 0,    "heal": 0 },
+  "Pandawa":    { "style": 0.6, "po": 0, "invo": 1, "summonK": 0,    "heal": 0 },
+  "Roublard":   { "style": 0.2, "po": 2, "invo": 3, "summonK": 0.15, "heal": 0 },
+  "Zobal":      { "style": 0.5, "po": 0, "invo": 1, "summonK": 0,    "heal": 0 },
+  "Steamer":    { "style": 0.2, "po": 2, "invo": 2, "summonK": 0.12, "heal": 0 },
+  "Eliotrope":  { "style": 0.4, "po": 1, "invo": 1, "summonK": 0,    "heal": 0 },
+  "Huppermage": { "style": 0.3, "po": 1, "invo": 1, "summonK": 0,    "heal": 0 },
+  "Ouginak":    { "style": 0.7, "po": 0, "invo": 1, "summonK": 0,    "heal": 0 },
+  "Forgelance": { "style": 0.6, "po": 0, "invo": 1, "summonK": 0,    "heal": 0 }
+}

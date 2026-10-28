@@ -1,0 +1,11 @@
+{
+  "_doc": "PA / PM minimum visés à partir de chaque niveau (personnage + équipement, hors bonus de combat).",
+  "bands": [
+    { "from": 1,   "pa": 6,  "pm": 3 },
+    { "from": 20,  "pa": 7,  "pm": 3 },
+    { "from": 40,  "pa": 7,  "pm": 4 },
+    { "from": 60,  "pa": 8,  "pm": 4 },
+    { "from": 100, "pa": 10, "pm": 5 },
+    { "from": 150, "pa": 11, "pm": 6 }
+  ]
+}
